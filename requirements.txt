@@ -1,0 +1,5 @@
+asyncio
+urllib3
+beautifulsoup4
+requests
+requests-html
